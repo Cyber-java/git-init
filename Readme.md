@@ -6,3 +6,4 @@
 5.git push 'url из git remote -v или origin' 'ветка разработки' - запись в репозиторий github
 6.git reset - удаление файла из области stage
 7.git diff - показывает строки к-ые изменяли,удаляли или добавляли
+8.git reset --hard - отменяет все изменения и очищает git status
