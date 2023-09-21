@@ -1,6 +1,8 @@
 Команды
-1.git status
-2.git add .
-3.git commit -m "коментарии"
-4.git log или git log --oneline
-5.git push 'url из git remote -v или origin' 'ветка разработки'
+1.git status - проверка статуса файлов
+2.git add . - подготовка и перемещение изменяемых файлов в область stage
+3.git commit -m "коментарии" - комментраии описывающие суть изменений
+4.git log или git log --oneline - просмотор комментариев и изменений
+5.git push 'url из git remote -v или origin' 'ветка разработки' - запись в репозиторий github
+6.git reset - удаление файла из области stage
+7.git diff - показывает строки к-ые изменяли,удаляли или добавляли
